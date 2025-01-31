@@ -1,0 +1,9 @@
+g++ -Wall -std=c++17 -c somefunctions.cc
+g++ -Wall -std=c++17 -c janse.cc
+g++ -Wall -std=c++17 somefunctions.o jan30.0
+./a.out
+
+OUTPUT
+4.55
+2.33333
+B
